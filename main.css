@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./34EA04F2-0BAA-455F-8F73-2329EE56807E.jpg);
+    background-size:cover;
+    background-position:center;
+    padding:2rem;
+    margin: 0;
+    min-height: 100vh;
+    
+    
+
+
+}
+
+ul{
+    position: fixed;
+    right: 5rem;
+    bottom:3rem;
+    font-size: 2rem;
+}
+
+a{
+    position:absolute ;
+    right:5rem;
+    top:3rem;
+    color:blue;
+    font-size: 1rem;
+}
+.name{
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+}
+h2{
+    font-size: 3rem;
+    font-style: italic;
+}
+h1{
+    font-style: italic;
+}
+
+
+
